@@ -1,3 +1,5 @@
 # c6_sprint4
 
-Code Dump for Eskwelabs Cohort 6 Sprint 4
+Hello! 
+
+This is how I track my progress in Sprint 4! 
